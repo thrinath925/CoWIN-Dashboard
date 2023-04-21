@@ -1,0 +1,16 @@
+.VaccinationCoverage {
+  padding: 50px;
+  text-align: center;
+}
+.Vaccinationbygender {
+  padding: 50px;
+  text-align: center;
+}
+.Vaccinationbyage {
+  padding: 50px;
+  text-align: center;
+}
+
+.fail-img {
+  width: 300px;
+}
